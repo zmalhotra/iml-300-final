@@ -1,0 +1,40 @@
+ <!-- I used code from http://www.w3schools.com/css/css_navbar.asp
+
+     
+  -->
+  
+h2 {
+	font: Helvetica;
+	font-family: sans-serif;
+	color: ##7EFFF4;
+	font-size: 31px;
+}
+
+ul {
+  color: #225378;
+ 
+	font-family: helvetica;
+	font-size: 20px;
+	text-align: right;
+    list-style: none;
+	outline-style: groove;
+	list-style-position: 
+    margin: 10px;
+    padding: 5;
+    width: 150px;
+    background-color: #1695A3;
+}
+
+li a {
+
+    display: inline;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+  
+    background-color: #ACF0F2;
+    color: #F3FFE2;
+}
